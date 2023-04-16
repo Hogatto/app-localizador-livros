@@ -14,14 +14,21 @@ header{
     text-align: center;
     padding: 23px;
 }
+
 .input{
-    display: inline-block;
-}
-.pai{
-   position: relative;
-   margin: auto;
+    margin:auto ;
+    width: 200px;
+    height: 40;
 }
 .texto{
+    display: inline-block;
+    width: 200px;
+    height: 40;
     text-align: center;
 }
+
+.botao{
+    display: inline-block;
+}
+
 
