@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: skyblue;
+}
+
+header{
+    margin: auto;
+    text-align: center;
+    padding: 23px;
+}
+
+.filho{
+    display:block;
+    text-align: center;
+    margin: auto;
+    height: 30px;
+    width: 60vw;
+    position: relative;
+}
+.texto{
+    height: 30px;
+    width: 60%;
+}
+.pai{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    display: inline-block;
+    text-align: center;
+    height: 40px;
+    width: 50px;
+    transform: translate(-50%, -50%);
+}
+
+.botao{
+    height: 29px;
+    width: 80px;
+}

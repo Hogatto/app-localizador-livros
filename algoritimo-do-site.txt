@@ -1,0 +1,8 @@
+criar html -
+escrever o nosso html-
+criar o nosso css - mobile-
+criar medias queryes- tablet-desktop-
+escreve o css
+criar js
+escrever js-botao-div(livros)- circulo de carregamento
+consumir api de livros google
